@@ -1,0 +1,11 @@
+{
+ "name" : "Diaspora Link-me Alpha",
+ "version" : "0.1",
+ "description" : "Set page links and point to Diaspora accounts, on user server or remote server",
+ "icons": { "48": "logo.png" },
+ "browser_action" : {
+	"default_icon" : "icon.png",
+	"popup" : "hello.html"
+ },
+ "permissions" : [ ]
+}
